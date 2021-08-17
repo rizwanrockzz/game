@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
 body {
   text-align: center;
   background-color: #011F3F;
@@ -50,4 +52,14 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+footer{
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+  background-color: #011F3F;
+  font-family: 'Cabin', sans-serif;
 }
